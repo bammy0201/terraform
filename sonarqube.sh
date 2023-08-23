@@ -75,6 +75,6 @@ echo "sonar   -   nproc    4096" | sudo tee -a /etc/security/limits.conf
 sudo sysctl -p
 sudo systemctl start sonar
 sudo systemctl enable sonar
-#delete this line and input your datadog api key inside
+94d1ec5ac782ef38498c31e72688811b031d260a
 
 done
